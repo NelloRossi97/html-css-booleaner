@@ -90,3 +90,8 @@ aside div{
 .aside-bg2{
     background-image: url(../img/graph.jpg);
 }
+
+footer{
+    margin-top: 20px;
+    margin-left: 5px;
+}
