@@ -12,6 +12,11 @@ header{
     padding-top: 20px;
 }
 
+main{
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
 .subtitle-grey{
     color: grey;
 }
@@ -24,4 +29,43 @@ header{
 #subdata-grey{
     color: grey;
     font-size: 12px;
+}
+
+.photo{
+    margin-top: 20px;
+    margin-left: ;
+}
+
+.photo span{
+    font-size: 12px;
+}
+
+section{
+    margin-top: 20px;
+}
+
+.highlighted-text{
+    background-color: yellow;
+}
+
+ul{
+    padding:15px;
+}
+
+table{
+    border-spacing: 0;
+}
+
+thead{
+    background-color: #20a9e5;
+    color: white;
+    text-align: left;
+}
+
+.row-blue{
+    background-color: #b1e5f2;
+}
+
+tbody td{
+    padding:10px 60px 10px 0;
 }
