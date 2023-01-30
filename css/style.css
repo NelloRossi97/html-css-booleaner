@@ -3,11 +3,25 @@
 }
 
 header{
-    background: lightblue url("../img/pattern.png");
+    background: #4ea0ff url("../img/pattern.png");
     background-size: 300px;
 }
 
 .logo{
     width: 10%;
     padding-top: 20px;
+}
+
+.subtitle-grey{
+    color: grey;
+}
+
+#booleaner-link{
+    text-decoration: none;
+    color: #31afe7;
+}
+
+#subdata-grey{
+    color: grey;
+    font-size: 12px;
 }
