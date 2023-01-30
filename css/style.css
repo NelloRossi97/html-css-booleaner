@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+}
+
+header{
+    background: lightblue url("../img/pattern.png");
+    background-size: 300px;
+}
+
+.logo{
+    width: 10%;
+    padding-top: 20px;
+}
