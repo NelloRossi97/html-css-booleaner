@@ -12,6 +12,17 @@ header{
     padding-top: 20px;
 }
 
+.container{
+    width: 50%;
+    margin: auto;
+}
+
+.photo img{
+    width: 50%;
+    height: 316px;
+}
+ 
+
 main{
     margin-top: 20px;
     margin-left: 5px;
