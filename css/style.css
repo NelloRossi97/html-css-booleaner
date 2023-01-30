@@ -69,3 +69,24 @@ thead{
 tbody td{
     padding:10px 60px 10px 0;
 }
+
+aside{
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+aside div{
+    width: 300px;
+    height: 180px;
+    color: white;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.aside-bg1{
+    background-image: url(../img/monitor.jpg);
+}
+
+.aside-bg2{
+    background-image: url(../img/graph.jpg);
+}
